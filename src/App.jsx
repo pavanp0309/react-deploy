@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div>
       <h1>Hello welcome</h1>
+      <h2>Bye byee tata😁</h2>
     </div>
   )
 }
